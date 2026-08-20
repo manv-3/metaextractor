@@ -5,3 +5,7 @@ heya!
 It is a Universal Metadata Extraction tool which supports various file types such as `.jpg`, `.png`,`.pdf`,`.mov`,`.mp4`,`.wav`,`m4a`,`.docx`,`.xlsx` and `.pptx`.
 
 It also has a privacy Risk scoring engine, through which it automatically assigns risk categories(Low,Medium,High) to extracted metadata fields.
+
+**Phase1** in this phase a C# library `Metaguardcore` for extracting metadata from various file types of data is to be created. 
+It will have a 
+
