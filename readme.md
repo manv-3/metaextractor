@@ -17,13 +17,13 @@ It also has a privacy Risk scoring engine, through which it automatically assign
 
 
 directory structure
-
+`
 IMetadataExtractor
  ├── ImageMetadataExtractor   (.jpg, .png, .mp4, .mov)  <- MetadataExtractor lib covers both
  ├── AudioMetadataExtractor   (.mp3, .wav, .m4a)          <- TagLib#
  ├── PdfMetadataExtractor     (.pdf)
  └── OfficeMetadataExtractor  (.docx, .xlsx, .pptx)
-
+`
 
  
 
